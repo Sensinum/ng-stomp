@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "sockjs": "*",
+    "sockjs": "https://github.com/sockjs/sockjs-client.git#v1.0.0",
     "stomp-websocket": "*"
   }
 }
