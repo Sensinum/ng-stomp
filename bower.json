@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "sockjs": "https://github.com/tep-pl/sockjs-client#2af96bbfd53e86f3daeeed87f3dc2358513378f3",
+    "sockjs": "git://github.com/tep-pl/sockjs-client.git#2af96bbfd53e86f3daeeed87f3dc2358513378f3",
     "stomp-websocket": "*"
   }
 }
