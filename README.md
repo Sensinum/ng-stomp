@@ -1,3 +1,4 @@
+...
 [![npm](https://img.shields.io/npm/l/ng-stomp.svg?style=flat-square)](http://www.wtfpl.net/txt/copying/)
 [![npm](https://img.shields.io/npm/v/ng-stomp.svg?style=flat-square)](https://www.npmjs.com/package/ng-stomp)
 [![Bower](https://img.shields.io/bower/v/ng-stomp.svg?style=flat-square)](#bower)
